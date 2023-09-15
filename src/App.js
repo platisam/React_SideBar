@@ -1,5 +1,11 @@
+import Home from "./Home";
+
 function App() {
-  return <h2>Sidebar setup</h2>;
+  return (
+    <>
+      <Home />
+    </>
+  );
 }
 
 export default App;
